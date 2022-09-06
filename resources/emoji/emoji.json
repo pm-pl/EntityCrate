@@ -1,0 +1,18 @@
+{
+	"geometry.emoji": {
+		"texturewidth": 64,
+		"textureheight": 64,
+		"visible_bounds_width": 5,
+		"visible_bounds_height": 12,
+		"visible_bounds_offset": [0, 5, 0],
+		"bones": [
+			{
+				"name": "bb_main",
+				"pivot": [0, 0, 0],
+				"cubes": [
+					{"origin": [-30, 93, 0], "size": [64, 63, 0], "uv": [0, 0]}
+				]
+			}
+		]
+	}
+}

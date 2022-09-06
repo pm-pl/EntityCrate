@@ -1,0 +1,7 @@
+name: Crate
+description: Crate is a plugin for LOCM that allows you to create and manage crates.
+version: 1.0.0
+author: phuongaz
+src-namespace-prefix: phuongaz\crate
+main: phuongaz\crate\Loader
+api: 4.0.0
